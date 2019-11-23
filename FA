@@ -1,5 +1,6 @@
 killall screen
 while(true) do
 rm -fr ../.telegram-cli
-screen ./RUNFA.sh
+screen ./Sasuke.sh
 done
+
